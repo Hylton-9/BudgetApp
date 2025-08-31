@@ -1,6 +1,5 @@
 {
   "name": "personal-budget-tracker-with-ai-assistant",
-  "homepage": "https://Hylton-9.github.io/BudgetApp/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -12,13 +11,13 @@
   },
   "dependencies": {
     "@google/genai": "^1.16.0",
-    "gh-pages": "^6.3.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
     "typescript": "~5.8.2",
-    "vite": "^6.2.0"
+    "vite": "^6.2.0",
+    "@vitejs/plugin-react": "^4.3.4"
   }
 }
